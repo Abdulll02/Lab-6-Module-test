@@ -1,0 +1,12 @@
+unit-testing-lab/
+├── src/
+│   ├── __init__.py
+│   └── inventory.py          # тестируемый модуль
+├── tests/
+│   ├── __init__.py
+│   └── test_inventory.py     # сюда пишутся тесты
+├── requirements.txt
+├── pytest.ini
+├── .coveragerc
+├── .gitignore
+└── README.md
